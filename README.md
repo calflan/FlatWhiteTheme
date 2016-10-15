@@ -1,2 +1,3 @@
 # FlatWhiteTheme
-A new iteration of Ghost's standard Casper theme.
+A new adaption of Ghost's standard Casper theme v1.3.0.
+Named after coffee because... coffee. Simple.
