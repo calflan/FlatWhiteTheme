@@ -1,2 +1,2 @@
 # FlatWhiteTheme
-# A new iteration of Ghost's standard Casper theme.
+A new iteration of Ghost's standard Casper theme.
