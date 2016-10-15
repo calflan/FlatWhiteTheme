@@ -1,0 +1,16 @@
+{
+  "name": "FlatWhite - 1.0.1",
+  "version": "1.0.1"
+  "description": "A modern and stylish portfolio theme for Ghost and an adaption of Casper-1.3.0",
+  "author": {
+    "name": "Calum",
+    "email": "flanagancalum@gmail.co.uk",
+    "url": "http://www.calumjamesflanagan.co.uk"
+  },
+  "homepage": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+}
